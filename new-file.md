@@ -10,3 +10,5 @@ Creating a new file for github practice.
 
 ## Another heading
 Here is some more text to  take up osme of the space on this page. 
+
+![ice cream](media/ice-cream.jpg)
