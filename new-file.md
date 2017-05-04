@@ -1,7 +1,9 @@
 Creating a new file for github practice. 
-- list item one
-- list item two
-- list item three
+- Create a branch, edit it, and create a pull request 
+- Add labels
+- Add review to pull request
+- Make edit to pull request
+
 
 # Heading
 1. Step 1
