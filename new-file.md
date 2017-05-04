@@ -6,6 +6,7 @@ Creating a new file for github practice.
 
 
 # Heading
+Hi Kristin! You look nice today.
 1. Step 11
 2. Step 2
 3. Step 3
